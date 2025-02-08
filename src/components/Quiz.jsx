@@ -48,7 +48,7 @@ const Quiz = () => {
 
     return (
         <div className='quiz'>
-            <h1>Devlab Quiz App</h1>
+            <h1>Quizes</h1>
             {showScore ? (
                 <div className='score-section'>
                     <h2>Your Score: {score}</h2>
